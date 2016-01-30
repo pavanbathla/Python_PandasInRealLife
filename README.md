@@ -1,5 +1,5 @@
 # Python_PandasInRealLife
-Documentation for Python Pandas training course
+Documentation and Use Cases with Python Pandas
 
 ###Objective:
 * Go through all Pandas documentation to understand every detail/functionality possible
